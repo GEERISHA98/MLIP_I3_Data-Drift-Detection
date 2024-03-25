@@ -1,6 +1,6 @@
 # MLIP_I3_Data-Drift-Detection
 
-This repository hosts the code and results for the Data Drift Detection project, part of the Machine Learning in Production (MLIP) coursework. The project utilizes Evidently AI to analyze data drift in a simulated movie streaming service scenario.
+This repository hosts the code and results for the Data Drift Detection project, part of the Machine Learning in Production (MLIP) coursework at CMU. The project utilizes Evidently AI to analyze data drift in a movie recommendation service scenario.
 Blog Link: https://medium.com/@geerishj/navigating-data-quality-with-evidently-ai-a46aaac437fc
 
 ## Repository Structure
