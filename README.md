@@ -8,7 +8,7 @@ Blog Link: https://medium.com/@geerishj/navigating-data-quality-with-evidently-a
 - `/Data`: Contains the datasets used in the analysis.
 - `/Data Drift Results`: Includes HTML reports from the Evidently AI data drift analysis.
 - `/Test Suite Results`: Contains the outcomes from various data quality tests.
-- `Data_Quality_Analysis.ipynb`: The colab notebook with the code to eprform all the analysis.
+- `Data_Quality_Analysis.ipynb`: The colab notebook with the code to perform all the analysis.
 
 ## Running the Analysis on Google Colab
 
@@ -24,7 +24,7 @@ Note: Ensure that your Google Colab session has the necessary permissions to acc
 ## Results Interpretation
 
 - Navigate to the `/Data Drift Results` directory to view an interactive HTML report detailing the data drift detected in the dataset.
-- The `/Test Suite Results` directory provides a comprehensive report on the data quality evaluation.
+- The `/Test Suite Results` directory to view an interactive HTML report that provides a comprehensive report on the data quality evaluation.
 
 ## Contributions and Feedback
 
